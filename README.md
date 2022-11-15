@@ -4,7 +4,7 @@ A simple GUI Calculator made with python.
 
 ![image](https://user-images.githubusercontent.com/23217592/201998247-46864e88-f860-4db8-9ab9-08a03c59aea5.png)
 
-Python provides  Tkinter library, which can be used to create GUI based interactions.  
+
 
 
 
@@ -16,6 +16,11 @@ Python provides  Tkinter library, which can be used to create GUI based interact
 ## Code Flow
 
 We want to create a simple calculator with 16 buttons across 4 rows. 
+<p>
+Here we will be mainly utilisng the Tkinter library by Python , which can be used to create GUI based interactions.  
+  </p>
+  
+The GUI should of the following structure :
 
 ![image](https://user-images.githubusercontent.com/23217592/202002279-14e80053-3885-47e2-a9b4-fd5ccd3207a0.png)
 
